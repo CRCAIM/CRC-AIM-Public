@@ -14,15 +14,15 @@ We are excited to collaborate with researchers and members the modeling communit
 
 ### Natural History
 
-#### All-Cause Mortality
-[formulas | parameters]: [description]
-
 #### Adenoma Generation and Location
 [formulas | parameters]: [description]
 
+![Adenoma Generation Risk Function](images/formula_adenoma_generation.PNG)
+
+
 #### Adenoma Growth
 [formulas | parameters]: [description]
-
+![Adenoma Growth CDF](images/formula_adenoma_growth.PNG)
 
 #### Transition from Adenoma to Preclinical CRC
 [formulas | parameters]: [description]
