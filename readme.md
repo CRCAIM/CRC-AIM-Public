@@ -10,19 +10,61 @@ We are currently finalizing a detailed manuscript that describes the natural his
 
 We are excited to collaborate with researchers and members the modeling community to address outstanding questions related to colorectal cancer screening. If you are interested in working with us, please email us at collaborate@crcaim.com.
 
+## List of Abstracts/Publications
+
+This is a comprehensive list of all the abstracts and publications that featured CRC-AIM, along with the corresponding versions of the model and parameters used by them.
+
+* Natural History: [abstract, SMDM]() NHistory v1.0
+
+* Natural History: [manuscript in preparation]()
+
 ## Contents
 
 ### Natural History
 
 #### Adenoma Generation and Location
-[formulas | parameters]: [description]
 
 ![Adenoma Generation Risk Function](images/formula_adenoma_generation.PNG)
+Instantaneous risk function of growing an adenoma
+
+_Parameters_
+
+* t - time in years
+* α0 - baseline log risk parameter
+* α0i - random baseline risk parameter assigned to individual i, ~ N(α0, σα)
+* α1 - sex parameter
+* α2 - age group parameter, four parameters total, one for each age grouping
+  * k = 1: ages 20-49
+  * k = 2: ages 50-59
+  * k = 3: ages 60-69
+  * k = 4: ages 70+
 
 
 #### Adenoma Growth
-[formulas | parameters]: [description]
 ![Adenoma Growth CDF](images/formula_adenoma_growth.PNG)
+
+CDF of of time to 10 mm adenoma size.
+
+_Parameters_
+
+* β1 - scale parameter
+* β2 - location parameter
+
+These parameters vary based on adenoma location (colon or rectum).
+
+Time to 10 mm can be used to calculate a growth rate: λij for the jth adenoma in the ith individual:
+
+![Adenoma Growth Rate](images/formula_adenoma_growth_rate.PNG)
+
+_Parameters_
+
+* d - diameter of adenoma at given time (0: initiation, infinity: max)
+* t_10mm - time for adenoma to grow to 10 mm as sampled from CDF above
+
+The growth rate can be rewritten to evaluate the size of the adenoma at a given time t:
+
+![Adenoma size at time t](images/formula_adenoma_growth_diameter_at_time.PNG)
+
 
 #### Transition from Adenoma to Preclinical CRC
 [formulas | parameters]: [description]
@@ -81,15 +123,3 @@ Categorical Probability
 
 ![Categorical Probability](images/formula_categorical_prob.PNG)
 
-#### CRC Survival
-[formulas | parameters]: [description]
-
-
-
-## List of Abstracts/Publications
-
-This is a comprehensive list of all the abstracts and publications that featured CRC-AIM, along with the corresponding versions of the model and parameters used by them.
-
-* Natural History: [abstract, SMDM]() NHistory v1.0
-
-* Natural History: [manuscript in preparation]()
