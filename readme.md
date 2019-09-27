@@ -2,7 +2,7 @@
 
 ## Background
 
-This is a public repository of information related to the Colorectal Cancer and Adenoma Incidence and Mortality (CRC-AIM) microsimulation model. CRC-AIM is a robust CRC natural history model that provides an accessible platform for collaborative simulation studies. This repository was created in the spirit of scientific engagement and transparency, and we will update it periodically as various components of CRC-AIM are added or improved.
+This is a public repository of information related to the Colorectal Cancer and Adenoma Incidence and Mortality (CRC-AIM) microsimulation model. CRC-AIM is a robust colorectal cancer (CRC) natural history model that provides an accessible platform for collaborative simulation studies. This repository was created in the spirit of scientific engagement and transparency, and we will update it periodically as various components of CRC-AIM are added or improved.
 
 We are currently finalizing a detailed manuscript that describes the natural history component of this model. We will provide a link to that manuscript and its supplemental material upon publication.
 
@@ -14,17 +14,18 @@ We are excited to collaborate with researchers and members the modeling communit
 
 This is a comprehensive list of all the abstracts and publications that featured CRC-AIM, along with the corresponding versions of the model and parameters used by them.
 
-* Natural History: [abstract, SMDM]() NHistory v1.0
+* [Piscitello A, Matney M, Saoud L, Parton M, Borah BJ, Limburg PJ, Rinde H. (2019) “PS 1-60: Validating a Novel Colorectal Cancer Natural History Microsimulation Model: The Colorectal Cancer and Adenoma Incidence Microsimulation Model (CRC-AIM).” SMDM Annual Meeting.](https://smdm.confex.com/smdm/2019/meetingapp.cgi/Paper/12716) | NaturalHistory v1.0
 
-* Natural History: [manuscript in preparation]()
+* Natural history manuscript (_in preparation_) | NaturalHistory v1.0
 
 ## Contents
 
-### Natural History
+### Natural History (NaturalHistory v1.0)
 
 #### Adenoma Generation and Location
 
 ![Adenoma Generation Risk Function](images/formula_adenoma_generation.PNG)
+
 Instantaneous risk function of growing an adenoma
 
 _Parameters_
@@ -33,7 +34,7 @@ _Parameters_
 * α0 - baseline log risk parameter
 * α0i - random baseline risk parameter assigned to individual i, ~ N(α0, σα)
 * α1 - sex parameter
-* α2 - age group parameter, four parameters total, one for each age grouping
+* α2 - age group parameter (four parameters total, one per age group)
   * k = 1: ages 20-49
   * k = 2: ages 50-59
   * k = 3: ages 60-69
@@ -52,7 +53,7 @@ _Parameters_
 
 These parameters vary based on adenoma location (colon or rectum).
 
-Time to 10 mm can be used to calculate a growth rate: λij for the jth adenoma in the ith individual:
+Time to 10 mm can be used to calculate a growth rate: λij for the j-th adenoma in the i-th individual:
 
 ![Adenoma Growth Rate](images/formula_adenoma_growth_rate.PNG)
 
@@ -108,7 +109,7 @@ _Parameters_
 
 _Parameters_
 
-* s - CRC Size in mm
+* s - CRC size in mm
 * σ - scale parameter
 * λ - shape parameter
 
