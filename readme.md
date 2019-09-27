@@ -43,7 +43,7 @@ _Parameters_
 #### Adenoma Growth
 ![Adenoma Growth CDF](images/formula_adenoma_growth.PNG)
 
-CDF of of time to 10 mm adenoma size.
+CDF of time to 10 mm adenoma size.
 
 _Parameters_
 
