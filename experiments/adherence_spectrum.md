@@ -14,26 +14,28 @@ Screening outcomes are per 1000 individuals free of clinically diagnosed colorec
 
 ## Results
 
-- [Triennial mt-sDNA, annual FIT, and annual HSgFOBT](#triennial-mt-sdna--annual-fit--and-annual-hsgfobt)
-  - [Screening between ages 45–75 years](#screening-between-ages-45-75-years)
-  - [Screening between ages 45–80 years](#screening-between-ages-45-80-years)
-  - [Screening between ages 45–85 years](#screening-between-ages-45-85-years)
-  - [Screening between ages 50–75 years](#screening-between-ages-50-75-years)
-  - [Screening between ages 50–80 years](#screening-between-ages-50-80-years)
-  - [Screening between ages 50–85 years](#screening-between-ages-50-85-years)
-  - [Screening between ages 55–75 years](#screening-between-ages-55-75-years)
-  - [Screening between ages 55–80 years](#screening-between-ages-55-80-years)
-  - [Screening between ages 55–85 years](#screening-between-ages-55-85-years)
-- [Biennial mt-sDNA, FIT, and HSgFOBT](#biennial-mt-sdna--fit--and-hsgfobt)
-  - [Screening between ages 45–75 years](#screening-between-ages-45-75-years-1)
-  - [Screening between ages 45–80 years](#screening-between-ages-45-80-years-1)
-  - [Screening between ages 45–85 years](#screening-between-ages-45-85-years-1)
-  - [Screening between ages 50–75 years](#screening-between-ages-50-75-years-1)
-  - [Screening between ages 50–80 years](#screening-between-ages-50-80-years-1)
-  - [Screening between ages 50–85 years](#screening-between-ages-50-85-years-1)
-  - [Screening between ages 55–75 years](#screening-between-ages-55-75-years-1)
-  - [Screening between ages 55–80 years](#screening-between-ages-55-80-years-1)
-  - [Screening between ages 55–85 years](#screening-between-ages-55-85-years-1)
+- [Triennial mt-sDNA, annual FIT, and annual HSgFOBT](#triennial-mt-sdna-annual-fit-and-annual-hsgfobt)
+  - [Screening between ages 45–75 years](#screening-between-ages-4575-years)
+  - [Screening between ages 45–80 years](#screening-between-ages-4580-years)
+  - [Screening between ages 45–85 years](#screening-between-ages-4585-years)
+  - [Screening between ages 50–75 years](#screening-between-ages-5075-years)
+  - [Screening between ages 50–80 years](#screening-between-ages-5080-years)
+  - [Screening between ages 50–85 years](#screening-between-ages-5085-years)
+  - [Screening between ages 55–75 years](#screening-between-ages-5575-years)
+  - [Screening between ages 55–80 years](#screening-between-ages-5580-years)
+  - [Screening between ages 55–85 years](#screening-between-ages-5585-years)
+
+- [Biennial mt-sDNA, FIT, and HSgFOBT](#biennial-mt-sdna-fit-and-hsgfobt)
+  - [Screening between ages 45–75 years](#screening-between-ages-4575-years-1)
+  - [Screening between ages 45–80 years](#screening-between-ages-4580-years-1)
+  - [Screening between ages 45–85 years](#screening-between-ages-4585-years-1)
+  - [Screening between ages 50–75 years](#screening-between-ages-5075-years-1)
+  - [Screening between ages 50–80 years](#screening-between-ages-5080-years-1)
+  - [Screening between ages 50–85 years](#screening-between-ages-5085-years-1)
+  - [Screening between ages 55–75 years](#screening-between-ages-5575-years-1)
+  - [Screening between ages 55–80 years](#screening-between-ages-5580-years-1)
+  - [Screening between ages 55–85 years](#screening-between-ages-5585-years-1)
+
 
 ### Triennial mt-sDNA, annual FIT, and annual HSgFOBT 
 
