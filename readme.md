@@ -16,7 +16,7 @@ This is a comprehensive list of all the abstracts and publications that featured
 
 * [Piscitello A, Matney M, Saoud L, Parton M, Borah BJ, Limburg PJ, Rinde H. (2019) “PS 1-60: Validating a Novel Colorectal Cancer Natural History Microsimulation Model: The Colorectal Cancer and Adenoma Incidence Microsimulation Model (CRC-AIM).” SMDM Annual Meeting.](https://smdm.confex.com/smdm/2019/meetingapp.cgi/Paper/12716) | NaturalHistory v1.0
 
-* Natural history and screening manuscript (_in preparation_) | NaturalHistory v1.0 & Screening v1.0
+* [Andrew Piscitello, Leila Saoud, Michael Matney, Bijan J Borah, A Mark Fendrick, Kristen Hassmiller Lich, Harald Rinde, Paul J Limburg: Description and Validation of the Colorectal Cancer and Adenoma Incidence & Mortality (CRC-AIM) Microsimulation Model](https://www.biorxiv.org/content/10.1101/2020.03.02.966838v1) | NaturalHistory v1.0 & Screening v1.0
 
 ## Contents
 
