@@ -23,3 +23,4 @@ This is a comprehensive list of all the abstracts and publications that featured
 #### [Methods](https://github.com/CRCAIM/CRC-AIM-Public/tree/master/methods)
 #### [Parameters](https://github.com/CRCAIM/CRC-AIM-Public/tree/master/parameters)
 #### [Experiments](https://github.com/CRCAIM/CRC-AIM-Public/tree/master/experiments)
+#### [Documents](https://github.com/CRCAIM/CRC-AIM-Public/tree/master/documents)
