@@ -8,7 +8,7 @@ We are currently finalizing a detailed manuscript that describes the natural his
 
 ## Collaborate
 
-We are excited to collaborate with researchers and members the modeling community to address outstanding questions related to colorectal cancer screening. If you are interested in working with us, please email us at collaborate@crcaim.com.
+We are excited to collaborate with researchers and members of the modeling community to address outstanding questions related to colorectal cancer screening. If you are interested in working with us, please email us at collaborate@crcaim.com.
 
 ## List of Abstracts/Publications
 
@@ -20,7 +20,5 @@ This is a comprehensive list of all the abstracts and publications that featured
 
 ## Contents
 
-#### [Methods](https://github.com/CRCAIM/CRC-AIM-Public/tree/master/methods)
-#### [Parameters](https://github.com/CRCAIM/CRC-AIM-Public/tree/master/parameters)
-#### [Experiments](https://github.com/CRCAIM/CRC-AIM-Public/tree/master/experiments)
-#### [Documents](https://github.com/CRCAIM/CRC-AIM-Public/tree/master/documents)
+#### [v2.0](https://github.com/CRCAIM/CRC-AIM-Public/tree/master/v2.0): CRC-AIM v2.0 (Updated 2024)
+#### [v1.0](https://github.com/CRCAIM/CRC-AIM-Public/tree/master/v1.0): Archive documents for CRC-AIM v1.0
