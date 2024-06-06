@@ -6,7 +6,7 @@ This is a public repository of information related to the Colorectal Cancer and 
 
 ## Collaborate
 
-We are excited to collaborate with researchers and members of the modeling community to address outstanding questions related to colorectal cancer screening. If you are interested in working with us, please email us at collaborate@crcaim.com.
+We are excited to collaborate with researchers and members of the modeling community to address outstanding questions related to colorectal cancer screening. If you are interested in working with us, please email us at crcaim@exactsciences.com.
 
 ## Content
 
