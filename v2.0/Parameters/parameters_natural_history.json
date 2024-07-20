@@ -1,26 +1,32 @@
 {
-  "adenoma_risk": {
-    "baseline_log_risk": -6.6,
-    "main_sex_effect": -0.24,
-    "sd_baseline_log_risk": 1.1,
-    "a2_k": { "1": 0.037, "2": 0.031, "3": 0.029, "4": 0.030},
-    "sum_Aj_diff" : {"1": 0.0, "2": 0.30, "3": 0.42, "4": 0.35}
+  "adenoma_generation": {
+    "baseline_log_risk": -5.661,
+    "main_sex_effect": -0.384,
+    "sd_baseline_log_risk": 1.270,
+    "b2": 0.039,
+    "b3": 0.023,
+    "b4": 0.020,
+    "b5": -0.018
   },
-  "adenoma_growth": {
-      "colon": {"b1": 24.3, "b2": 1.8472066},
-      "rectum": {"b1": 11.086583, "b2": 2.4485203}
+  "adenoma_growth_t10": {
+      "colon": {"sc": 24.364, "ac": 1.388},
+      "rectum": {"sr": 6.734, "ar": 3.601}
   },
-  "crc_transition":
-    {"gamma":
-      { "M": {"colon": {"1": 0.0400000, "2": 0.0089232},
-              "rectum": {"1": 0.0472322, "2": 0.0173598}},
-        "F": {"colon": {"1": 0.0444762, "2": 0.0089362},
-              "rectum": {"1": 0.0470747, "2": 0.0161731}}
+  "adenoma_growth_rgm": {
+      "p": 0.710
+  },
+  "crc_transition": {
+    "gamma": {
+      "M": {"colon": {"1": 0.040, "2": 0.016},
+              "rectum": {"1": 0.039, "2": 0.004}},
+      "F": {"colon": {"1": 0.043, "2": 0.014},
+              "rectum": {"1": 0.035, "2": 0.010}}
       },
      "gamma3":  0.5
-    },
+  },
   "sojourn_time": {
-    "xi": {"colon": 0.943347, "rectum": 1.148838},
-    "nu": {"colon": 0.492673, "rectum": 0.564791}
+    "lambda": 4.683,
+    "k": 3.620,
+    "a": -0.018
   }
 }
