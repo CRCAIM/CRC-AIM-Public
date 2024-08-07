@@ -19,6 +19,8 @@ This is a comprehensive list of all the abstracts and publications that featured
 
 ### Publications
 **2024**
+* [Estes C, Ozbay B, Vahdat V, et al. Clinical, social, and economic impacts of colorectal cancer screening with the multi-target stool-DNA (Cologuard) test: 10-year experience.](https://github.com/CRCAIM/CRC-AIM-Public/blob/master/v2.0/Cologuard%2010-Year%20Anniversary.pdf)
+
 * [Kisiel JB, Fendrick AM, Ebner DW, et al. Estimated impact and value of blood-based colorectal cancer screening at varied adherence compared with stool-based screening. J Med Econ. 2024;27(1):746-753. doi:10.1080/13696998.2024.2349467](https://pubmed.ncbi.nlm.nih.gov/38686394/)
 
 **2023**
